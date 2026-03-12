@@ -28,6 +28,8 @@ codex/registered_accounts.csv
 
 codex/codex_tokens/
 codex/codex_accounts_tokens/
+codex_tokens/*.json
+proxy/*.json
 rename_tokens.py
 
 *.log

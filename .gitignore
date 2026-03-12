@@ -29,6 +29,7 @@ codex/registered_accounts.csv
 codex/codex_tokens/
 codex/codex_accounts_tokens/
 codex_tokens/*.json
+codex_tokens/20260311/
 proxy/*.json
 rename_tokens.py
 
